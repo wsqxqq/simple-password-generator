@@ -1,4 +1,4 @@
-# Simple assword Generator
+# Simple password Generator
 
 Simple Python password generator.
 
