@@ -12,4 +12,4 @@ This program creates a random password using:
 
 ## How to use
 
-Run the program and it will print a password in the terminal.
+Run the program, choose the length and it will print a password in the terminal.
